@@ -1,4 +1,5 @@
 # Stripe
+# Created by : Dhaval Kanojiya (E-commerce Architect)
 Stripe payment gateway Magento2 extension
 Install
 
