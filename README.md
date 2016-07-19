@@ -7,7 +7,7 @@ Install
 
     Enter following commands to install module:
 
-    composer config repositories.inchoostripe git https://github.com/kanojiyadhaval/magento2-Dhaval_Stripe.git
+    composer config repositories.stripe git https://github.com/kanojiyadhaval/magento2-Dhaval_Stripe.git
     composer require kanojiyadhaval/stripe:dev-master
 
     Wait while dependencies are updated.
